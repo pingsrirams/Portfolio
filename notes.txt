@@ -1,0 +1,52 @@
+My Portfolio Site Link:
+
+http://imsriram.com 
+
+Softwares Used for Design & Developments:
+
+1. Adobe Illustrator:
+	- Utilized for creating Vector and SVG Letter Logo.
+
+2. Adobe Photoshop:
+	- Utilized for creating MockUps of ipad with my art works.
+
+3. Adobe XD (Experience Design): 
+	- Utilized for creating UI Animation Concepts.
+
+4. Fontawesome:
+	- Utilized for Hamburger Menu, back-to-top-icon, Social-Media icons, Services Icons, 
+
+5. CSS3 @Keyframes Animation:
+	- Utilized for animating Menu Toggler.
+	- Created pulse animation for back-to-top-icon button.
+
+6. CSS3 @media screen:
+	- Utilized for creating my website responsive on cross-platforms.
+
+7. AOS CSS3 and JavaScript Library:
+	- Created driven scroll animation for all sections in website.
+	- Utilized data-aos & data-aos-delay for service, portfolio, 
+	  UI/UX designs and Animation, Experience section.
+
+8. Created Lightbox Modal Window for section UI/UX Designs.
+
+9. Vanilla JavaScript:
+	- Utilized in hamburger menu animation and responsiveness.
+	- DOM (Document Object Modal) and Event Listeners are utilized for redirecting pages.
+	- Created seperate active CSS class for contact form and utilized in vanilla js.
+	- Regex Pattern utilized for form validation.
+
+10. HTML5:
+	- Utilized for creating the website layouts and designs.
+
+10. PHP:
+	- Utilized for form submission to my personal gmail account.
+
+11. Godaddy Server:
+	- Utilized for buying my own domain.
+	- Utilized for hosting my site.
+
+
+
+
+
